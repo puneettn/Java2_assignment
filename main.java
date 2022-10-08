@@ -39,18 +39,18 @@ public class main {
 
         switch (ch) {
             case 1: {
-                Bank b = new SBI(12211, "sumit", 2000);
+                Bank b = new SBI(12211, "Puneet", 2000);
                 cases(b, c);
             }
             break;
             case 2: {
-                Bank b = new BOI(12211, "sumit", 2000);
+                Bank b = new BOI(12211, "Puneet", 2000);
                 cases(b, c);
             }
 
             break;
             case 3: {
-                Bank b = new ICICI(12211, "sumit", 2000);
+                Bank b = new ICICI(12211, "Puneet", 2000);
                 cases(b, c);
             }
             break;
@@ -59,7 +59,7 @@ public class main {
                 break;
         }
 
-    }
+    }sumit
 
     public static void log_Maker(String str) {
         str1.append(str);
