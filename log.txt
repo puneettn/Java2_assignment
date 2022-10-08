@@ -1,0 +1,9 @@
+AccountName:Puneet
+AccountNo :12211
+Amount:2000
+AccountType:Saving
+Rate of Interest :12
+Deduction @time :2022-10-08T22:53:41.9437664711000
+sucess check_log.txt 
+
+ Amount AVAILABLE :1000
