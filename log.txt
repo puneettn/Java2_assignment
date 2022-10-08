@@ -1,9 +1,0 @@
-AccountName:sumit
-AccountNo :12211
-Amount:2000
-AccountType:Saving
-Rate of Interest :10
-Deduction @time :2022-09-28T14:11:09.893174674200
-sucess check_log.txt 
-
- Amount AVAILABLE :1800
